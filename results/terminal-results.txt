@@ -1,0 +1,555 @@
+[serial; threads=1; run=1]
+Render time: 2.25109 seconds
+Glass hits: 245543
+Rendered pixels: 90000
+Done.
+
+[serial; threads=1; run=2]
+Render time: 2.22879 seconds
+Glass hits: 245543
+Rendered pixels: 90000
+Done.
+
+[serial; threads=1; run=3]
+Render time: 2.23039 seconds
+Glass hits: 245543
+Rendered pixels: 90000
+Done.
+
+[serial; threads=1; run=4]
+Render time: 2.22693 seconds
+Glass hits: 245543
+Rendered pixels: 90000
+Done.
+
+[serial; threads=1; run=5]
+Render time: 2.19739 seconds
+Glass hits: 245543
+Rendered pixels: 90000
+Done.
+
+[race; threads=2; run=1]
+Render time: 1.38263 seconds
+Glass hits: 245436
+Rendered pixels: 89982
+Actual threads: 2
+Done.
+
+[race; threads=2; run=2]
+Render time: 1.37129 seconds
+Glass hits: 245414
+Rendered pixels: 89974
+Actual threads: 2
+Done.
+
+[race; threads=2; run=3]
+Render time: 1.37999 seconds
+Glass hits: 245460
+Rendered pixels: 89976
+Actual threads: 2
+Done.
+
+[race; threads=2; run=4]
+Render time: 1.43302 seconds
+Glass hits: 245479
+Rendered pixels: 89974
+Actual threads: 2
+Done.
+
+[race; threads=2; run=5]
+Render time: 1.45255 seconds
+Glass hits: 245470
+Rendered pixels: 89954
+Actual threads: 2
+Done.
+
+[race; threads=4; run=1]
+Render time: 0.789403 seconds
+Glass hits: 245265
+Rendered pixels: 89917
+Actual threads: 4
+Done.
+
+[race; threads=4; run=2]
+Render time: 0.798951 seconds
+Glass hits: 245350
+Rendered pixels: 89896
+Actual threads: 4
+Done.
+
+[race; threads=4; run=3]
+Render time: 0.814677 seconds
+Glass hits: 245326
+Rendered pixels: 89925
+Actual threads: 4
+Done.
+
+[race; threads=4; run=4]
+Render time: 0.833734 seconds
+Glass hits: 245325
+Rendered pixels: 89909
+Actual threads: 4
+Done.
+
+[race; threads=4; run=5]
+Render time: 0.855061 seconds
+Glass hits: 245319
+Rendered pixels: 89894
+Actual threads: 4
+Done.
+
+[race; threads=8; run=1]
+Render time: 0.455687 seconds
+Glass hits: 245018
+Rendered pixels: 89794
+Actual threads: 8
+Done.
+
+[race; threads=8; run=2]
+Render time: 0.462967 seconds
+Glass hits: 244832
+Rendered pixels: 89749
+Actual threads: 8
+Done.
+
+[race; threads=8; run=3]
+Render time: 0.461101 seconds
+Glass hits: 244991
+Rendered pixels: 89763
+Actual threads: 8
+Done.
+
+[race; threads=8; run=4]
+Render time: 0.461183 seconds
+Glass hits: 244850
+Rendered pixels: 89733
+Actual threads: 8
+Done.
+
+[race; threads=8; run=5]
+Render time: 0.484734 seconds
+Glass hits: 244777
+Rendered pixels: 89719
+Actual threads: 8
+Done.
+
+[critical; threads=2; run=1]
+Render time: 1.36665 seconds
+Glass hits: 245543
+Rendered pixels: 90000
+Actual threads: 2
+Done.
+
+[critical; threads=2; run=2]
+Render time: 1.3817 seconds
+Glass hits: 245543
+Rendered pixels: 90000
+Actual threads: 2
+Done.
+
+[critical; threads=2; run=3]
+Render time: 1.41454 seconds
+Glass hits: 245543
+Rendered pixels: 90000
+Actual threads: 2
+Done.
+
+[critical; threads=2; run=4]
+Render time: 1.44103 seconds
+Glass hits: 245543
+Rendered pixels: 90000
+Actual threads: 2
+Done.
+
+[critical; threads=2; run=5]
+Render time: 1.47951 seconds
+Glass hits: 245543
+Rendered pixels: 90000
+Actual threads: 2
+Done.
+
+[critical; threads=4; run=1]
+Render time: 0.783691 seconds
+Glass hits: 245543
+Rendered pixels: 90000
+Actual threads: 4
+Done.
+
+[critical; threads=4; run=2]
+Render time: 0.843561 seconds
+Glass hits: 245543
+Rendered pixels: 90000
+Actual threads: 4
+Done.
+
+[critical; threads=4; run=3]
+Render time: 0.873675 seconds
+Glass hits: 245543
+Rendered pixels: 90000
+Actual threads: 4
+Done.
+
+[critical; threads=4; run=4]
+Render time: 0.857611 seconds
+Glass hits: 245543
+Rendered pixels: 90000
+Actual threads: 4
+Done.
+
+[critical; threads=4; run=5]
+Render time: 0.918729 seconds
+Glass hits: 245543
+Rendered pixels: 90000
+Actual threads: 4
+Done.
+
+[critical; threads=8; run=1]
+Render time: 0.498176 seconds
+Glass hits: 245543
+Rendered pixels: 90000
+Actual threads: 8
+Done.
+
+[critical; threads=8; run=2]
+Render time: 0.529986 seconds
+Glass hits: 245543
+Rendered pixels: 90000
+Actual threads: 8
+Done.
+
+[critical; threads=8; run=3]
+Render time: 0.514886 seconds
+Glass hits: 245543
+Rendered pixels: 90000
+Actual threads: 8
+Done.
+
+[critical; threads=8; run=4]
+Render time: 0.49542 seconds
+Glass hits: 245543
+Rendered pixels: 90000
+Actual threads: 8
+Done.
+
+[critical; threads=8; run=5]
+Render time: 0.53664 seconds
+Glass hits: 245543
+Rendered pixels: 90000
+Actual threads: 8
+Done.
+
+[atomic; threads=2; run=1]
+Render time: 1.37301 seconds
+Glass hits: 245543
+Rendered pixels: 90000
+Actual threads: 2
+Done.
+
+[atomic; threads=2; run=2]
+Render time: 1.43392 seconds
+Glass hits: 245543
+Rendered pixels: 90000
+Actual threads: 2
+Done.
+
+[atomic; threads=2; run=3]
+Render time: 1.46392 seconds
+Glass hits: 245543
+Rendered pixels: 90000
+Actual threads: 2
+Done.
+
+[atomic; threads=2; run=4]
+Render time: 1.43129 seconds
+Glass hits: 245543
+Rendered pixels: 90000
+Actual threads: 2
+Done.
+
+[atomic; threads=2; run=5]
+Render time: 1.47473 seconds
+Glass hits: 245543
+Rendered pixels: 90000
+Actual threads: 2
+Done.
+
+[atomic; threads=4; run=1]
+Render time: 0.828696 seconds
+Glass hits: 245543
+Rendered pixels: 90000
+Actual threads: 4
+Done.
+
+[atomic; threads=4; run=2]
+Render time: 0.883503 seconds
+Glass hits: 245543
+Rendered pixels: 90000
+Actual threads: 4
+Done.
+
+[atomic; threads=4; run=3]
+Render time: 0.909318 seconds
+Glass hits: 245543
+Rendered pixels: 90000
+Actual threads: 4
+Done.
+
+[atomic; threads=4; run=4]
+Render time: 0.856633 seconds
+Glass hits: 245543
+Rendered pixels: 90000
+Actual threads: 4
+Done.
+
+[atomic; threads=4; run=5]
+Render time: 0.911821 seconds
+Glass hits: 245543
+Rendered pixels: 90000
+Actual threads: 4
+Done.
+
+[atomic; threads=8; run=1]
+Render time: 0.463341 seconds
+Glass hits: 245543
+Rendered pixels: 90000
+Actual threads: 8
+Done.
+
+[atomic; threads=8; run=2]
+Render time: 0.521739 seconds
+Glass hits: 245543
+Rendered pixels: 90000
+Actual threads: 8
+Done.
+
+[atomic; threads=8; run=3]
+Render time: 0.496455 seconds
+Glass hits: 245543
+Rendered pixels: 90000
+Actual threads: 8
+Done.
+
+[atomic; threads=8; run=4]
+Render time: 0.514027 seconds
+Glass hits: 245543
+Rendered pixels: 90000
+Actual threads: 8
+Done.
+
+[atomic; threads=8; run=5]
+Render time: 0.526658 seconds
+Glass hits: 245543
+Rendered pixels: 90000
+Actual threads: 8
+Done.
+
+[reduction; threads=2; run=1]
+Render time: 1.48677 seconds
+Glass hits: 245543
+Rendered pixels: 90000
+Actual threads: 2
+Done.
+
+[reduction; threads=2; run=2]
+Render time: 1.55562 seconds
+Glass hits: 245543
+Rendered pixels: 90000
+Actual threads: 2
+Done.
+
+[reduction; threads=2; run=3]
+Render time: 1.6043 seconds
+Glass hits: 245543
+Rendered pixels: 90000
+Actual threads: 2
+Done.
+
+[reduction; threads=2; run=4]
+Render time: 1.6251 seconds
+Glass hits: 245543
+Rendered pixels: 90000
+Actual threads: 2
+Done.
+
+[reduction; threads=2; run=5]
+Render time: 1.68883 seconds
+Glass hits: 245543
+Rendered pixels: 90000
+Actual threads: 2
+Done.
+
+[reduction; threads=4; run=1]
+Render time: 0.83834 seconds
+Glass hits: 245543
+Rendered pixels: 90000
+Actual threads: 4
+Done.
+
+[reduction; threads=4; run=2]
+Render time: 0.784387 seconds
+Glass hits: 245543
+Rendered pixels: 90000
+Actual threads: 4
+Done.
+
+[reduction; threads=4; run=3]
+Render time: 0.773139 seconds
+Glass hits: 245543
+Rendered pixels: 90000
+Actual threads: 4
+Done.
+
+[reduction; threads=4; run=4]
+Render time: 0.792236 seconds
+Glass hits: 245543
+Rendered pixels: 90000
+Actual threads: 4
+Done.
+
+[reduction; threads=4; run=5]
+Render time: 0.77826 seconds
+Glass hits: 245543
+Rendered pixels: 90000
+Actual threads: 4
+Done.
+
+[reduction; threads=8; run=1]
+Render time: 0.444604 seconds
+Glass hits: 245543
+Rendered pixels: 90000
+Actual threads: 8
+Done.
+
+[reduction; threads=8; run=2]
+Render time: 0.45248 seconds
+Glass hits: 245543
+Rendered pixels: 90000
+Actual threads: 8
+Done.
+
+[reduction; threads=8; run=3]
+Render time: 0.445159 seconds
+Glass hits: 245543
+Rendered pixels: 90000
+Actual threads: 8
+Done.
+
+[reduction; threads=8; run=4]
+Render time: 0.461732 seconds
+Glass hits: 245543
+Rendered pixels: 90000
+Actual threads: 8
+Done.
+
+[reduction; threads=8; run=5]
+Render time: 0.445292 seconds
+Glass hits: 245543
+Rendered pixels: 90000
+Actual threads: 8
+Done.
+
+[lock; threads=2; run=1]
+Render time: 1.37437 seconds
+Glass hits: 245543
+Rendered pixels: 90000
+Actual threads: 2
+Done.
+
+[lock; threads=2; run=2]
+Render time: 1.39357 seconds
+Glass hits: 245543
+Rendered pixels: 90000
+Actual threads: 2
+Done.
+
+[lock; threads=2; run=3]
+Render time: 1.3986 seconds
+Glass hits: 245543
+Rendered pixels: 90000
+Actual threads: 2
+Done.
+
+[lock; threads=2; run=4]
+Render time: 1.37271 seconds
+Glass hits: 245543
+Rendered pixels: 90000
+Actual threads: 2
+Done.
+
+[lock; threads=2; run=5]
+Render time: 1.38045 seconds
+Glass hits: 245543
+Rendered pixels: 90000
+Actual threads: 2
+Done.
+
+[lock; threads=4; run=1]
+Render time: 0.798199 seconds
+Glass hits: 245543
+Rendered pixels: 90000
+Actual threads: 4
+Done.
+
+[lock; threads=4; run=2]
+Render time: 0.806002 seconds
+Glass hits: 245543
+Rendered pixels: 90000
+Actual threads: 4
+Done.
+
+[lock; threads=4; run=3]
+Render time: 0.785629 seconds
+Glass hits: 245543
+Rendered pixels: 90000
+Actual threads: 4
+Done.
+
+[lock; threads=4; run=4]
+Render time: 0.782719 seconds
+Glass hits: 245543
+Rendered pixels: 90000
+Actual threads: 4
+Done.
+
+[lock; threads=4; run=5]
+Render time: 0.781197 seconds
+Glass hits: 245543
+Rendered pixels: 90000
+Actual threads: 4
+Done.
+
+[lock; threads=8; run=1]
+Render time: 0.49648 seconds
+Glass hits: 245543
+Rendered pixels: 90000
+Actual threads: 8
+Done.
+
+[lock; threads=8; run=2]
+Render time: 0.451684 seconds
+Glass hits: 245543
+Rendered pixels: 90000
+Actual threads: 8
+Done.
+
+[lock; threads=8; run=3]
+Render time: 0.466988 seconds
+Glass hits: 245543
+Rendered pixels: 90000
+Actual threads: 8
+Done.
+
+[lock; threads=8; run=4]
+Render time: 0.463603 seconds
+Glass hits: 245543
+Rendered pixels: 90000
+Actual threads: 8
+Done.
+
+[lock; threads=8; run=5]
+Render time: 0.463323 seconds
+Glass hits: 245543
+Rendered pixels: 90000
+Actual threads: 8
+Done.
+
